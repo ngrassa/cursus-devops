@@ -13,7 +13,7 @@ java --jar target/monolitic-1.4*.jar
 4- test dans le navigateur: 
 http://<ip_enp0s8>
 
-#installation du fontend pour consommer le back-end
+# installation du fontend pour consommer le back-end
 5-  sudo yum install -y httpd
 6-  sudo copy  test.php /var/www/html/index.html
 

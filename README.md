@@ -1,8 +1,13 @@
-This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
+This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com) \
+git clone https://github.com/ngrassa/cursus-devops.git \
 # déploiement monolithique
 cd docker \
 vagrant up \
 ssh vagrant@ip 
+
+git clone https://github.com/ngrassa/microservice-cloud-native-training.git \
+cd microservice-cloud-native-training\
+cd lab-01
 
 1- installation maven :\
 sudo yum install -y maven \

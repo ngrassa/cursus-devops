@@ -1,8 +1,8 @@
 This repo is used for devops training by Dirane TAFEN (diranetafen@yahoo.com)
 # déploiement monolithique
-cd docker
-vagrant up 
-ssh vagrant@ip
+cd docker \
+vagrant up \
+ssh vagrant@ip \
 
 1- installation maven :
 sudo yum install -y maven
